@@ -1,9 +1,4 @@
 # splitter.sh
-- for **samsung gear 360, aug 2016**
-  - ```ffmpeg required```
-  - ```chmod +x splitter.sh```
-  - ``` ./splitter.sh```
-
 
 ### Problem 
 Your awesome little Samsung Gear VR Camera records all videos like this:
@@ -19,19 +14,21 @@ Your awesome little Samsung Gear VR Camera records all videos like this:
 
 But Autopano needs them as *two separate* files, like this: 
 
-         888D C8888888888      888D C8888888888                                               
-         88888d8888888899      88888d8888888899    
-         88.8       8.988      88.8       8.988    
-         888         8988      888         8988     
-         888         8988      888         8988     
-         88`8       8'988      88`8       8'988    
-         88888Y88P8888888      88888Y88P8888888                                
-         8888D C888888888      8888D C888888888
+  888D C8888888888      888D C8888888888                                               
+  88888d8888888899      88888d8888888899    
+  88.8       8.988      88.8       8.988    
+  888         8988      888         8988     
+  888         8988      888         8988     
+  88`8       8'988      88`8       8'988    
+  88888Y88P8888888      88888Y88P8888888                                
+  8888D C888888888      8888D C888888888
 
 Solution: 
 
-**Splitter.Sh**
-
-
+  - ```ffmpeg required```
+  - ```chmod +x splitter.sh```
+  - ``` ./splitter.sh```
+  
+-  **Aug 2016**
 
                            
