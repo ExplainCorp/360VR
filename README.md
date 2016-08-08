@@ -12,7 +12,7 @@ Your awesome little Samsung Gear VR Camera records all videos like this:
     888`Y8  8P' 8 8888 8 `Y88P'  88888                                      
     C88888D C888888888 888D C888888888 
 
-But Autopano needs them as *two separate* files, like this: 
+But Autopano Video Pro needs them as *two separate* videos, like this: 
 
     888D C8888888888      888D C8888888888                                               
     88888d8888888899      88888d8888888899    
@@ -29,6 +29,4 @@ Solution:
   - ```chmod +x splitter.sh```
   - ``` ./splitter.sh```
   
--  **Aug 2016**
-
-                           
+-  **August, 2016**
