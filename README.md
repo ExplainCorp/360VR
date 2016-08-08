@@ -23,10 +23,12 @@ But Autopano Video Pro needs them as *two separate* videos, like this:
     88888Y88P8888888      88888Y88P8888888                                
     8888D C888888888      8888D C888888888
 
-Solution: 
+### Solution 
 
-  - ```ffmpeg required```
-  - ```chmod +x splitter.sh```
-  - ``` ./splitter.sh```
+  - ```Make sure you have ffmpeg installed on your computer: https://ffmpeg.org/```
+  - ```put the splitter.sh file in the same folder as all your Samsung Gear 360 videos```
+  - ```In the command line, type "chmod +x splitter.sh"```
+  - ``` Then type "./splitter.sh"```
+  - - ```Whew. Go get some rest. You deserve it. ```
   
 -  **August, 2016**
